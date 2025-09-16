@@ -1,7 +1,7 @@
-# Proyecto_Modelos_I_UdeA
+# Proyecto Modelos I - UdeA
 
-Nombre: Brandon Duque García 
+**Nombre:** Brandon Duque García 
 <br>
-C.C: 1013537487
+**C.C:** 1013537487
 <br>
-Programa: Ingeniería de Sistemas 
+**Programa:** Ingeniería de Sistemas 
