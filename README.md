@@ -6,4 +6,4 @@
 <br>
 **Programa:** Ingeniería de Sistemas 
 <br>
-**Link Video:** https://youtu.be/WTVO3Xe07bc
+**Link Video Entrega 2:** https://youtu.be/WTVO3Xe07bc
